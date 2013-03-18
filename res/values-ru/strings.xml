@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Генератор паролей</string>
+     
+    <string name="settings_title">Настройки</string> 
+    <string name="settings">Настройки</string>  
+    <string name="password_settings">Настройки пароля</string>
+    <string name="option_length">Длина пароля</string>
+    <string name="option_letters">Буквы</string>
+    <string name="option_capital_letters">Заглавные буквы</string>
+    <string name="option_numbers">Цифры</string>
+    <string name="option_symbols">Символы</string>
+    <string name="option_length_not_valid">Нельзя сгенерировать пароль меньше #OPTION_LENGTH_MIN# и больше #OPTION_LENGTH_MAX# символов</string>
+    <string name="clipboard_settings">Настройки копирования</string>
+    <string name="option_clipboard">Копировать в буфер обмена</string>
+    <string name="option_clipboard_summary">Включить кнопку для копирования в буфер обмена</string>
+    
+    <string name="generate">Сгенерировать</string>
+    <string name="share">Отправить</string>
+    <string name="no_options">Невозможно сгенерировать (нет значений)</string>
+    <string name="clipboard_copy">Скопировать</string>
+    <string name="clipboard_empty">Нет пароля для копирования</string>
+    <string name="clipboard_copied">Скопировано</string>
+       
+    <string name="about">О программе</string>
+    <string name="about_title">О PassGenerator</string>
+    <string name="about_text">PassGenerator - утилита для генерации паролей с возможностью копирования и различными настройками.
+        \n\nWritten by flash_zero</string>
+</resources>
